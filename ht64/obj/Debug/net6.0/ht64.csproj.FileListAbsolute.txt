@@ -1,0 +1,15 @@
+C:\hometask\C Sharp\sem9\ht64\bin\Debug\net6.0\ht64.exe
+C:\hometask\C Sharp\sem9\ht64\bin\Debug\net6.0\ht64.deps.json
+C:\hometask\C Sharp\sem9\ht64\bin\Debug\net6.0\ht64.runtimeconfig.json
+C:\hometask\C Sharp\sem9\ht64\bin\Debug\net6.0\ht64.dll
+C:\hometask\C Sharp\sem9\ht64\bin\Debug\net6.0\ht64.pdb
+C:\hometask\C Sharp\sem9\ht64\obj\Debug\net6.0\ht64.csproj.AssemblyReference.cache
+C:\hometask\C Sharp\sem9\ht64\obj\Debug\net6.0\ht64.GeneratedMSBuildEditorConfig.editorconfig
+C:\hometask\C Sharp\sem9\ht64\obj\Debug\net6.0\ht64.AssemblyInfoInputs.cache
+C:\hometask\C Sharp\sem9\ht64\obj\Debug\net6.0\ht64.AssemblyInfo.cs
+C:\hometask\C Sharp\sem9\ht64\obj\Debug\net6.0\ht64.csproj.CoreCompileInputs.cache
+C:\hometask\C Sharp\sem9\ht64\obj\Debug\net6.0\ht64.dll
+C:\hometask\C Sharp\sem9\ht64\obj\Debug\net6.0\refint\ht64.dll
+C:\hometask\C Sharp\sem9\ht64\obj\Debug\net6.0\ht64.pdb
+C:\hometask\C Sharp\sem9\ht64\obj\Debug\net6.0\ht64.genruntimeconfig.cache
+C:\hometask\C Sharp\sem9\ht64\obj\Debug\net6.0\ref\ht64.dll
