@@ -10,6 +10,7 @@ void Numbers (int num)
     Console.Write($"{num} ");
     Numbers(num - 1);
 }
+
 Console.WriteLine("Введите число:");
 int nums = Convert.ToInt32(Console.ReadLine());
 Numbers(nums);
